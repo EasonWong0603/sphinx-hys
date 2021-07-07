@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sphinx-hys
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning HTML /CSS /JavaScript /Vue.js
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on vue project
 - 📫 How to reach me by email:674845142@qq.com
 
 <!---
